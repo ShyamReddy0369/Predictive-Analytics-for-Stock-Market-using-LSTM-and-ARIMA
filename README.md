@@ -1,0 +1,2 @@
+# Predictive-Analytics-for-Stock-Market-using-LSTM-and-ARIMA
+The goal of this project is to develop a software application that can analyze and predict stock market trends using Long Short-Term Memory (LSTM) neural networks and ARIMA (AutoRegressive Integrated Moving Average) models. It provides users (like investors or analysts) with predictive analytics, data visualization, and a user-friendly interface.
